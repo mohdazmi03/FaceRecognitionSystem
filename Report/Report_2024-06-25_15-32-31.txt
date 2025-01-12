@@ -1,0 +1,9 @@
+Face Detection Report
+
+Name,Average Confidence,Frequency,Timestamp
+akmal,49.23,23,15:32:31
+aqil,63.73,157,15:32:31
+azmi,96.95,228,15:32:31
+fahmi,61.79,143,15:32:31
+harith,68.58,208,15:32:31
+rafiq,55.66,15,15:32:31
