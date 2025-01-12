@@ -1,0 +1,5 @@
+Face Detection Report
+
+Name,Average Confidence,Frequency,Timestamp
+aqil,29.77,1,14:28:43
+azmi,73.25,7,14:28:43
