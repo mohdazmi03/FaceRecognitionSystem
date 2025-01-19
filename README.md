@@ -12,7 +12,14 @@ This project is a **MATLAB-based Face Recognition System** that uses deep learni
 ## Requirements
 - MATLAB R2020b or later.
 - A webcam for capturing and detecting faces.
-- MATLAB's Deep Learning Toolbox.
+- MATLAB's 
+1. Deep Learning Toolbox
+2. Computer Vision Toolbox
+3. MATLAB Support Package for USB Webcams
+4. Deep Learning Toolbox Model for AlexNet Network
+5. Image Processing Toolbox
+6. Statistics and Machine Learning Toolbox
+7. MATLAB App Designer (for UI components like uifigure, uibutton, etc.)
 
 ## Getting Started
 
